@@ -1,7 +1,7 @@
 # 🏭 MiniSCADA
 A SCADA system designed for visualization and control of industrial processes.
 
-The project is divided into three main components:
+The project is divided into three main components. Repository references:
 - **[mini-scada-frontend](https://github.com/janzeg/mini-scada-frontend)** – Angular web application for visualization
 - **[mini-scada-backend](https://github.com/janzeg/mini-scada-backend)** – Spring Boot backend managing process data and WebSocket communication  
 - **[mini-scada-plc-controller](https://github.com/janzeg/mini-scada-plc-controller)** – PLC controller (CODESYS) for the process control
