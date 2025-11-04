@@ -20,7 +20,7 @@ The project is divided into three main components. Repository references:
 * Java: 21  
 * Spring Boot: 3.5.6  
 * Eclipse Milo (OPC UA Client SDK): 1.0.6
-* MySQL:
+* MySQL: 8.0.42
 
 ### Frontend
 * Angular: 20.3.2  
