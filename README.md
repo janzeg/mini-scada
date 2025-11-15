@@ -31,7 +31,7 @@ The project is divided into three main components. Repository references:
 
 
 ## Architecture overview
-<img width="820" height="250" alt="Apka MQTT struktura drawio (3)" src="https://github.com/user-attachments/assets/dbfe8491-3f36-41ff-8973-5d267c06e482" />
+<img width="820" height="250" alt="Diagram drawio (5)" src="https://github.com/user-attachments/assets/e327bf69-b3d3-49c9-99e7-088ad03877f1" />
 
 
 ## Features
